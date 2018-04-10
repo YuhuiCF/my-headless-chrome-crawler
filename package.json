@@ -1,0 +1,23 @@
+{
+  "name": "my-headless-chrome-crawler",
+  "version": "0.1.0",
+  "description": "My headless-chrome-crawler for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuhuiCF/my-headless-chrome-crawler.git"
+  },
+  "author": "Yuhui Xiong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YuhuiCF/my-headless-chrome-crawler/issues"
+  },
+  "homepage": "https://github.com/YuhuiCF/my-headless-chrome-crawler#readme",
+  "dependencies": {
+    "fs-extra": "5.0.0",
+    "headless-chrome-crawler": "1.5.0"
+  }
+}
